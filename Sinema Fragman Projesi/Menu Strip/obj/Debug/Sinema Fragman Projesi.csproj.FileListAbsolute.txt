@@ -1,0 +1,19 @@
+C:\Users\Metin\source\repos\Metin Form\Menu Strip\Menu Strip\bin\Debug\Menu Strip.exe.config
+C:\Users\Metin\source\repos\Metin Form\Menu Strip\Menu Strip\bin\Debug\Menu Strip.exe
+C:\Users\Metin\source\repos\Metin Form\Menu Strip\Menu Strip\bin\Debug\Menu Strip.pdb
+C:\Users\Metin\source\repos\Metin Form\Menu Strip\Menu Strip\obj\Debug\Menu_Strip.Form1.resources
+C:\Users\Metin\source\repos\Metin Form\Menu Strip\Menu Strip\obj\Debug\Menu_Strip.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Menu Strip\Menu Strip\obj\Debug\Sinema Fragman Projesi.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Menu Strip\Menu Strip\obj\Debug\Sinema Fragman Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Menu Strip\Menu Strip\obj\Debug\Menu Strip.exe
+C:\Users\Metin\source\repos\Metin Form\Menu Strip\Menu Strip\obj\Debug\Menu Strip.pdb
+C:\Users\Metin\source\repos\Metin Form\Sinema Fragman Projesi\Menu Strip\bin\Debug\Menu Strip.exe.config
+C:\Users\Metin\source\repos\Metin Form\Sinema Fragman Projesi\Menu Strip\bin\Debug\Menu Strip.exe
+C:\Users\Metin\source\repos\Metin Form\Sinema Fragman Projesi\Menu Strip\bin\Debug\Menu Strip.pdb
+C:\Users\Metin\source\repos\Metin Form\Sinema Fragman Projesi\Menu Strip\obj\Debug\Sinema Fragman Projesi.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Sinema Fragman Projesi\Menu Strip\obj\Debug\Menu_Strip.Form1.resources
+C:\Users\Metin\source\repos\Metin Form\Sinema Fragman Projesi\Menu Strip\obj\Debug\Menu_Strip.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Sinema Fragman Projesi\Menu Strip\obj\Debug\Sinema Fragman Projesi.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Sinema Fragman Projesi\Menu Strip\obj\Debug\Sinema Fragman Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Sinema Fragman Projesi\Menu Strip\obj\Debug\Menu Strip.exe
+C:\Users\Metin\source\repos\Metin Form\Sinema Fragman Projesi\Menu Strip\obj\Debug\Menu Strip.pdb
